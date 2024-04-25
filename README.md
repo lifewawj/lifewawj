@@ -7,7 +7,8 @@
 </ul>
 
 <h2>✨ Fun Facts</h2>
-<p>I create lifestyle content <a href="https://twitter.com/lifewawj">here</a></p>
+<p>I create lifestyle content <a href="https://beacons.ai/lifewawj">here</a></p>
 
 <h2>📫 Contact</h2>
-<p>For any questions, DM me at my <a href="YOUR_LINKEDIN_URL">LinkedIn</a></p>
+<p>For any questions, DM me at my <a href="https://www.linkedin.com/in/lifewawj/">LinkedIn</a></p>
+
