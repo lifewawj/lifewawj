@@ -3,7 +3,7 @@
 
 <ul>
   <li>Check out my <a href="URL_TO_YOUR_WEBSITE">Portfolio Website</a> to learn more about me.</li>
-  <li>Explore my <a href="https://twitter.com/lifewawj">Twitter</a> where I share my learnings.</li>
+  <li>Explore my <a href="https://twitter.com/lifewawj">Twitter</a> where I share my thoughts or learnings.</li>
 </ul>
 
 <h2>✨ Fun Facts</h2>
